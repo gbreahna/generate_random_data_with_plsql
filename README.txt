@@ -47,24 +47,6 @@ initcap(generate_data_pkg.get_words(p_string_min => 10, p_string_max => 30, p_wo
 Xjfefxeqb Tfear
 Nboognospx Grlawd
 Vgdiywskln Ffjdggbck Gn
-Ibeawofck Vqrkfg Fsugcz Spb
-Uzxftfovz Icxd
-Cwlwluf Jdnmfgmfl Znsjrpn
-Cistho Nqhetmnfm 
-Ctlsvlq Oscaxiy Zranrud
-Peedfaklso Btl
-Ihurrh Knxxcoxo Xmxkh J
-Lvylkzty Epnxc Plx
-Xiyhzwzak Zhnyawr Rtjaszu
-Faaitqbj Oixeepzih Qcuvobz Za
-Guzrmxbbms Jab
-Griognuc Stxqi Jkcmymwp Rr
-Mtxlku Sunofwq Ocynq
-Zxooicdnd Dnuydvnrp Levsa
-Lrhsnmp Und
-Nngombnv Gzlqvxt Mikbwq
-Zhhwd Vniu
-Lwgiklews Ceduk Yjmliu Adudin
 
 ------------------------------------------------------------------------------
 NUMBERS
@@ -76,15 +58,6 @@ generate_data_pkg.get_number(p_value_min => 2120000000, p_value_max => 912000000
 8843677251522
 7444404655571
 5512051408402
-5385300988766
-8982479149206
-9500259085008
-1871641517363
-9614885018559
-8691789413476
-3136411092558
-7578130337636
-7516888938580
 
 -- it will generate a number between 18 and 80
 -- you can simulate the age column values
@@ -110,14 +83,6 @@ generate_data_pkg.get_email
 dtevwbsb.iftrmlnm@mghqfb.ca
 dajxcnsdjvvx.qgollheynzpy@mceumv.com
 dsobcrqsbrcy.pmxlgymrfl@qamglqlmf.de
-evwzmdqlnvu.hiqrujkuijs@cqcrskpolron.mx
-lwrzzfg.pltfzrryyoddpkf@zghdnkdj.es
-qzuonkmck.zsqjiahxgslsbrs@ieltxav.de
-fakvncb.qvvptsghxydrq@gtstqpph.fr
-yrcjtomuujz.eaykjxaicojnncu@famlngxser.com
-ktafrrq.lkaosevrvsgzkp@byjksuk.de
-fiaupodsk.nvvemmcmiazra@zzyiyudugbdg.mx
-omcqdlbrdyr.zynaeacfrfknvl@qktrdzvrqhkt.es
 
 ------------------------------------------------------------------------------
 URLs
@@ -127,4 +92,3 @@ generate_data_pkg.get_url||'.jpg'
 https://skjmgvq.sifiizthpqd.com/nnhshrrgoktl.jpg
 https://frpgvlfes.fwxmwjm.fr/qeyzfwljhxghrrgl.jpg
 https://nmeidwnumr.ujrcnakx.com/cwepiffcqofsozpi.jpg
-https://gbhkqyw.ngevhnqcs.com/qjjnioabpdpfyw.jpg
