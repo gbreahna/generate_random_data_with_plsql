@@ -1,0 +1,15 @@
+truncate table invoice_payment;
+truncate table invoice_line;
+truncate table invoice;
+truncate table cart_line;
+truncate table cart;
+truncate table customer_payment;
+truncate table customer_address;
+truncate table customer;
+truncate table book_tl;
+truncate table book_review;
+truncate table book_inventory;
+truncate table book_price;
+truncate table book_category_tl;
+truncate table book_category;
+truncate table book;
